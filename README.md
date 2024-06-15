@@ -20,7 +20,3 @@ The **Arabic Diacritization** repository tackles the task of adding diacritical 
 
 The **Arabic OCR for Handwritten Text** repository is dedicated to the task of optical character recognition (OCR) for handwritten Arabic text. It provides datasets, pre-trained models, and code for extracting and recognizing Arabic characters from handwritten documents or images.
 
-## Contributing
-
-We welcome contributions from the community to enhance and expand our repositories. If you have any ideas, bug fixes, or new features to propose, please feel free to open an issue or submit a pull request in the respective repository.
-
