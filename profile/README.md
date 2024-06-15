@@ -10,9 +10,29 @@ The **Arabic Spelling Errors Detection and Correction** repository contains code
 
 ### 2. Arabic Grammatical Errors Detection and Correction
 
-The **Arabic Grammatical Errors Detection and Correction** repositories focuses on identifying and correcting grammatical errors in Arabic sentences. It provides tools and datasets for training and evaluating models that can detect and suggest corrections for common grammatical mistakes in Arabic writing.
+The **Arabic Grammatical Errors Detection and Correction** repositories focus on identifying and correcting grammatical errors in Arabic sentences. We provide two distinct approaches to tackle this challenge:
 
-### 3. Arabic Diacritization
+#### 2.1 Rule-based Approach
+
+The **Rule-based Grammatical Error Correction** repository offers a comprehensive set of rule-based algorithms specifically designed to handle various types of grammatical errors commonly found in Arabic text. These algorithms are meticulously crafted to address issues such as incorrect word order, subject-verb agreement, missing or incorrect prepositions, and more. By leveraging linguistic knowledge and well-defined rules, this repository enables accurate detection and correction of grammatical errors in Arabic sentences.
+
+Key features of the rule-based approach:
+- Extensive coverage of Arabic grammatical rules
+- Efficient and deterministic error correction
+- Customizable rules to adapt to specific domains or writing styles
+- Easy integration into existing Arabic text processing pipelines
+
+#### 2.2 Seq2Seq Model Approach
+
+The **Seq2Seq Grammatical Error Correction** repository takes a machine learning-based approach to detect and correct grammatical errors in Arabic writing. It utilizes the power of sequence-to-sequence (Seq2Seq) models, which have shown remarkable success in various natural language processing tasks. This repository provides tools, datasets, and pre-trained models for training and evaluating Seq2Seq models specifically tailored for Arabic grammatical error correction.
+
+Key features of the Seq2Seq model approach:
+- State-of-the-art deep learning architecture for grammatical error correction
+- Ability to learn complex patterns and dependencies in Arabic grammar
+- Large-scale datasets for training and evaluation
+- Pre-trained models for quick deployment and fine-tuning
+- Flexibility to adapt to different domains and writing styles
+
 
 The **Arabic Diacritization** repository tackles the task of adding diacritical marks to Arabic text. Diacritization is essential for disambiguating the pronunciation and meaning of Arabic words. This repository offers datasets, models, and code for automatic diacritization of Arabic text.
 
