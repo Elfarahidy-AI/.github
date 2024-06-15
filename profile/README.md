@@ -33,6 +33,7 @@ Key features of the Seq2Seq model approach:
 - Pre-trained models for quick deployment and fine-tuning
 - Flexibility to adapt to different domains and writing styles
 
+### 3. Arabic Diacritization
 
 The **Arabic Diacritization** repository tackles the task of adding diacritical marks to Arabic text. Diacritization is essential for disambiguating the pronunciation and meaning of Arabic words. This repository offers datasets, models, and code for automatic diacritization of Arabic text.
 
